@@ -8,5 +8,5 @@ Borion-Updated is an updated version of [Horion](https://github.com/horionclient
 
 For any questions or inquiries, please contact one of the following people on Discord:  
 intop  
-NotIdot#0710  
+notnrg  
 mariosq
