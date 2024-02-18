@@ -6,7 +6,6 @@ Borion-Updated is an updated version of [Horion](https://github.com/horionclient
 
 ## Contact
 
-For any questions or inquiries, please either join our server [Borion Club](https://discord.gg/SSPHJfpxEx) or contact one of the following people on Discord:
-
-intop2
+For any questions or inquiries, please either join our server [Borion Club](https://discord.gg/SSPHJfpxEx) or contact one of the following people on Discord:     
+intop2     
 mariosq
